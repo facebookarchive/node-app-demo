@@ -1,5 +1,3 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
-
 var wit = require('node-wit');
 var fs = require('fs');
 var ACCESS_TOKEN = "IQ77NWUPUMNBYEUEKRTWU3VDR5YSLHTA";
